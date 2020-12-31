@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Marco Zanini
 
-You can use the [editor on GitHub](https://github.com/mzanini/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Software Engineer based in Seattle, WA_ <br>
+[LinkedIn](https://www.linkedin.com/in/marco-zanini) / [GitHub](https://github.com/mzanini/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Work Experience
 
-### Markdown
+**Senior Software Engineer** @ [Groove](https://www.groove.co/) _(Mar 2020 - Present)_ <br>
+Leading a 4-person Squad, working across the Stack: Ruby on Rails, React. <br><br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Software Engineer II** @ [Groove](https://www.groove.co/) _(Jun 2018 - Mar 2020)_ <br>
+Maintainer of Groove's Salesforce managed package. Web development with Ruby on Rails, React.<br><br>
 
-```markdown
-Syntax highlighted code block
+**Software Engineer II** @ [Meteorcomm](https://meteorcomm.com/) _(Jan 2017 - May 2018)_ <br>
+Developed software components in a highly distributed messaging system. Developing on Red Hat Enterprise Linux with Qpid, Docker, Kubernetes.<br><br>
 
-# Header 1
-## Header 2
-### Header 3
+**Software Engineer** @ [Schlumberger](https://www.slb.com/) _(Feb 2013 - Jun 2016)_ <br>
+Developed real-time data acquisition software in C++, C#/WPF. <br><br>
 
-- Bulleted
-- List
+**Software Researcher** @ [The Irish Software Engineering Research Center (LERO)](https://www.lero.ie/) _(October, 2011 – March, 2012)_ <br>
+Explored different ways to dynamically enhance security in cloud computing environments. Developed novel applications of context-based countermeasures. Project presentation for IBM, Dublin.  <br><br>
 
-1. Numbered
-2. List
+## Languages
 
-**Bold** and _Italic_ and `Code` text
+**Italian**: Native <br>
+**English**: Bilingual <br>
+**French**: Full Professional Proficiency <br>
+<br>
 
-[Link](url) and ![Image](src)
-```
+## Education
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Master of Science** Computer Engineering<br>
+[Polytechnic University of Milan](https://www.polimi.it/en/) - Milan, Italy _(2010 - 2012)_
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mzanini/cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Bachelor of Science** Computer Engineering<br>
+[Polytechnic University of Milan](https://www.polimi.it/en/) - Milan, Italy _(2006 - 2010)_
