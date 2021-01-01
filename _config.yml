@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
 title: Marco Zanini
 description: Software Engineer based in Seattle, WA
+site:
+  github:
+    is_project_page: false
