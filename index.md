@@ -1,3 +1,4 @@
+[GitHub](https://github.com/mzanini/) / [LinkedIn](https://www.linkedin.com/in/marco-zanini)
 # 🤓 Work Experience
 
 ## @ [**Groove**](https://www.groove.co/) _in Seattle, WA_
