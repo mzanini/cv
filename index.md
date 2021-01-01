@@ -5,7 +5,7 @@ _Software Engineer based in Seattle, WA_ <br>
 
 ## Work Experience
 
-@ [**Groove**](https://www.groove.co/) in Seattle, WA
+### @ [**Groove**](https://www.groove.co/) in Seattle, WA
 > Ruby on Rails, PostgreSQL, Javascript, React, APEX (Salesforce), Heroku, AWS (S3, KMS)
 
 **Senior Software Engineer** _(Mar 2020 - Present)_ <br>
@@ -14,19 +14,19 @@ Leading a 4-person Squad, working across the Stack: Ruby on Rails, React.
 **Software Engineer II** _(Jun 2018 - Mar 2020)_ <br>
 Maintainer of Groove's Salesforce managed package. Web development with Ruby on Rails, React.
 
-@ [**Meteorcomm**](https://meteorcomm.com/) in Seattle, WA
+### @ [**Meteorcomm**](https://meteorcomm.com/) in Seattle, WA
 > C++, Ruby, Apache Qpid, Docker, Kubernetes, Red Hat Enterprise Linux, Ansible
 
 **Software Engineer II**  _(Jan 2017 - May 2018)_ <br>
 Developed software components in a highly distributed messaging system. Developing on Red Hat Enterprise Linux with Qpid, Docker, Kubernetes.
 
-@ [**Schlumberger**](https://www.slb.com/) in Paris, France
+### @ [**Schlumberger**](https://www.slb.com/) in Paris, France
 > C++, C#, WPF
 
 **Software Engineer**  _(Feb 2013 - Jun 2016)_ <br>
 Developed real-time data acquisition software in C++, C#/WPF.
 
-@ [**The Irish Software Engineering Research Center (LERO)**](https://www.lero.ie/) in Limerick, Ireland
+### @ [**The Irish Software Engineering Research Center (LERO)**](https://www.lero.ie/) in Limerick, Ireland
 > Java
 
 **Researcher, Cloud Computing**  _(October, 2011 – March, 2012)_ <br>
@@ -34,7 +34,7 @@ Explored different ways to dynamically enhance security in cloud computing envir
 
 ## Education
 
-@ [**Polytechnic University of Milan**](https://www.polimi.it/en/) in Milan, Italy
+### @ [**Polytechnic University of Milan**](https://www.polimi.it/en/) in Milan, Italy
 
 **Master of Science**, Computer Engineering _(2010 - 2012)_
 
@@ -43,8 +43,6 @@ Explored different ways to dynamically enhance security in cloud computing envir
 
 ## Languages
 
-**Italian**: Native
-
-**English**: Bilingual
-
-**French**: Full Professional Proficiency
+**Italian**: Native <br>
+**English**: Bilingual <br>
+**French**: Full Professional Proficiency <br>
