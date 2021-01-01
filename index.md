@@ -3,7 +3,7 @@
 _Software Engineer based in Seattle, WA_ <br>
 [GitHub](https://github.com/mzanini/) / [LinkedIn](https://www.linkedin.com/in/marco-zanini)
 
-## Work Experience
+## :nerd_face: Work Experience
 
 ### @ [**Groove**](https://www.groove.co/) _in Seattle, WA_
 > Ruby on Rails, PostgreSQL, Javascript, React, APEX (Salesforce), Heroku, AWS (S3, KMS)
@@ -32,7 +32,7 @@ Developed real-time data acquisition software in C++, C#/WPF.
 **Researcher, Cloud Computing**  _(October, 2011 – March, 2012)_ <br>
 Explored different ways to dynamically enhance security in cloud computing environments. Developed novel applications of context-based countermeasures. Project presentation for IBM, Dublin.
 
-## Education
+## :microscope: Education
 
 ### @ [**Polytechnic University of Milan**](https://www.polimi.it/en/) _in Milan, Italy_
 
@@ -41,7 +41,7 @@ Explored different ways to dynamically enhance security in cloud computing envir
 
 **Bachelor of Science**, Computer Engineering _(2006 - 2010)_
 
-## Languages
+## :speech_balloon: Languages
 
 **Italian**: Native <br>
 **English**: Bilingual <br>
