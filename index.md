@@ -1,35 +1,45 @@
 # Marco Zanini
 
 _Software Engineer based in Seattle, WA_ <br>
-[LinkedIn](https://www.linkedin.com/in/marco-zanini) / [GitHub](https://github.com/mzanini/)
+[GitHub](https://github.com/mzanini/) / [LinkedIn](https://www.linkedin.com/in/marco-zanini)
 
 ## Work Experience
 
-![](./img/groove-logo.png){:height="15%" width="15%"} Groove <br>
-**Senior Software Engineer** @ [Groove](https://www.groove.co/) _(Mar 2020 - Present)_ <br>
-Leading a 4-person Squad, working across the Stack: Ruby on Rails, React. <br><br>
+@ [**Groove**](https://www.groove.co/)
+> Ruby on Rails, PostgreSQL, Javascript, React, APEX (Salesforce), Heroku, AWS (S3, KMS)
 
-**Software Engineer II** @ [Groove](https://www.groove.co/) _(Jun 2018 - Mar 2020)_ <br>
-Maintainer of Groove's Salesforce managed package. Web development with Ruby on Rails, React.<br><br>
+**Senior Software Engineer** _(Mar 2020 - Present)_ <br>
+Leading a 4-person Squad, working across the Stack: Ruby on Rails, React.
 
-![](./img/meteorcomm-logo.png){:height="15%" width="15%"} Meteorcomm <br>
-**Software Engineer II** @ [Meteorcomm](https://meteorcomm.com/) _(Jan 2017 - May 2018)_ <br>
-Developed software components in a highly distributed messaging system. Developing on Red Hat Enterprise Linux with Qpid, Docker, Kubernetes.<br><br>
+**Software Engineer II** _(Jun 2018 - Mar 2020)_ <br>
+Maintainer of Groove's Salesforce managed package. Web development with Ruby on Rails, React.
 
-![](./img/slb-logo.png){:height="15%" width="15%"} Schlumberger <br>
-**Software Engineer** @ [Schlumberger](https://www.slb.com/) _(Feb 2013 - Jun 2016)_ <br>
-Developed real-time data acquisition software in C++, C#/WPF. <br><br>
+@ [**Meteorcomm**](https://meteorcomm.com/)
+> C++, Ruby, Apache Qpid, Docker, Kubernetes, Red Hat Enterprise Linux, Ansible
 
-![](./img/lero-logo.png){:height="15%" width="15%"} Lero <br>
-**Researcher, Cloud Computing** @ [The Irish Software Engineering Research Center (LERO)](https://www.lero.ie/) _(October, 2011 – March, 2012)_ <br>
-Explored different ways to dynamically enhance security in cloud computing environments. Developed novel applications of context-based countermeasures. Project presentation for IBM, Dublin.  <br><br>
+**Software Engineer II**  _(Jan 2017 - May 2018)_ <br>
+Developed software components in a highly distributed messaging system. Developing on Red Hat Enterprise Linux with Qpid, Docker, Kubernetes.
+
+@ [**Schlumberger**](https://www.slb.com/)
+> C++, C#, WPF
+
+**Software Engineer**  _(Feb 2013 - Jun 2016)_ <br>
+Developed real-time data acquisition software in C++, C#/WPF.
+
+@ [The Irish Software Engineering Research Center (LERO)](https://www.lero.ie/)
+> Java
+
+**Researcher, Cloud Computing**  _(October, 2011 – March, 2012)_ <br>
+Explored different ways to dynamically enhance security in cloud computing environments. Developed novel applications of context-based countermeasures. Project presentation for IBM, Dublin.
 
 ## Languages
 
-**Italian**: Native <br>
-**English**: Bilingual <br>
-**French**: Full Professional Proficiency <br>
-<br>
+**Italian**: Native
+
+**English**: Bilingual
+
+**French**: Full Professional Proficiency
+
 
 ## Education
 
