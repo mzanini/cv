@@ -24,7 +24,7 @@ Linux, Messaging Systems _(1 year, 5 months)_
 Developed software components in a highly distributed messaging system. Developing on Red Hat Enterprise Linux with Qpid, Docker, Kubernetes.
 
 ### @ [**Schlumberger**](https://www.slb.com/) _in Paris, France_ <br>
-Data Acquisitio and Processing _(3 years, 5 months)_
+Data Acquisition and Processing _(3 years, 5 months)_
 > C++, C#, WPF
 
 **Software Engineer**  _(Feb 2013 - Jun 2016)_ <br>
