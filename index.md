@@ -7,7 +7,9 @@ _Software Engineer based in Seattle, WA_ <br>
 ## 🤓 Work Experience (~10 years)
 
 ### @ [**Groove**](https://www.groove.co/) _in Seattle, WA_
+
 _(2 years, 7 months)_
+
 > Ruby on Rails, PostgreSQL, Javascript, React, APEX (Salesforce), Heroku, AWS (S3, KMS)
 
 **Senior Software Engineer** _(Mar 2020 - Present)_ <br>
