@@ -1,5 +1,10 @@
+# Marco Zanini
+
+_Software Engineer based in Seattle, WA_ <br>
+
 [GitHub](https://github.com/mzanini/) / [LinkedIn](https://www.linkedin.com/in/marco-zanini)
-# 🤓 Work Experience
+
+# 🤓 Work Experience (~10 years)
 
 ## @ [**Groove**](https://www.groove.co/) _in Seattle, WA_
 > Ruby on Rails, PostgreSQL, Javascript, React, APEX (Salesforce), Heroku, AWS (S3, KMS)
