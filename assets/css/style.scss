@@ -2,3 +2,15 @@
 ---
 
 @import "{{ site.theme }}";
+
+header {
+  display:none;
+}
+
+footer {
+  display:none;
+}
+
+section {
+  width:80%;
+}
