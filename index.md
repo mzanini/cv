@@ -21,7 +21,7 @@ Maintainer of Groove's Salesforce managed package.
 > C++, Ruby, AMQP, Apache Qpid, Docker, Kubernetes, Red Hat Enterprise Linux, Ansible
 
 **Software Engineer II**  _(Jan 2017 - May 2018)_ <br>
-- Implemented C++ components to orchestrate the exchange of messages on a highly distributed system, PTC. Development on Red Hat Enterprise Linux.
+- Implemented C++ components to orchestrate the exchange of messages on a highly distributed system, [PTC](https://railroads.dot.gov/train-control/ptc/positive-train-control-ptc). Development on [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux).
 - Helped the company establish a no-compromise-on-quality mindset in introducing unit test coverage metrics, knowledge sharing presentations and leading by example on the use of unit tests and TDD.
 - Implemented Ruby simulators capable of emulating production components’ behavior, enabling SDETs to write tests decoupled from production components. Simulators used inside user acceptance tests, driven by Cucumber.
 - Introduced new methodology to estimate user stories’ complexity, helping the team improve estimation accuracy. Methodology adopted by all 5 development teams.
