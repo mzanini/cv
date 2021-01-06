@@ -4,25 +4,32 @@ _Software Engineer based in Seattle, WA_ <br>
 
 [GitHub](https://github.com/mzanini/) / [LinkedIn](https://www.linkedin.com/in/marco-zanini)
 
-## 🤓 Work Experience (~10 years)
+## 🤓 Work Experience (~8 years)
 
 ### @ [**Groove**](https://www.groove.co/) _in Seattle, WA_ <br>
 ##### Web development _(2 years, 7 months)_
-> Ruby on Rails, PostgreSQL, Javascript, React, APEX (Salesforce), Heroku, AWS (S3, KMS)
+> Ruby on Rails, PostgreSQL, Javascript, React, APEX (Salesforce), Heroku, AWS
 
 **Senior Software Engineer** _(Mar 2020 - Present)_ <br>
-Working at the intersection between engineering and project management: leading a 4-person team.
+- Leading a 4-person team.
+- Built the new licensing system
 
 **Software Engineer II** _(Jun 2018 - Mar 2020)_ <br>
-Maintainer of Groove's Salesforce managed package.
+- Maintainer of Groove's Salesforce managed package. Implemented logic and APIs to support some of the most important features in Groove.
+- Lead the team that built Groove's meeting scheduler.
 
 ### @ [**Meteorcomm**](https://meteorcomm.com/) _in Seattle, WA_<br>
 ##### Linux, Messaging Systems _(1 year, 5 months)_
-> C++, Ruby, AMQP, Apache Qpid, Docker, Kubernetes, Red Hat Enterprise Linux, Ansible
+> C++, Ruby, AMQP, Apache Qpid, Docker, Kubernetes, Openshift, [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux), Ansible
 
-**Software Engineer II**  _(Jan 2017 - May 2018)_ <br>
-- Implemented C++ components to orchestrate the exchange of messages on a highly distributed system, [PTC](https://railroads.dot.gov/train-control/ptc/positive-train-control-ptc). Development on [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux).
-- Helped the company establish a no-compromise-on-quality mindset in introducing unit test coverage metrics, knowledge sharing presentations and leading by example on the use of unit tests and TDD.
+**Software Engineer II**  _(Jan 2018 - May 2018)_ <br>
+- Re-designined the legacy Messaging application to transition to a container-based architecture.
+
+**Team Lead and Evangelist**  _(Oct 2017 - Dec 2017)_ <br>
+- Leading a mixed team of contractors and permanent employees, we incorporated Google Sanitizers in the local development environment, build, and testing systems.
+
+**Software Engineer II**  _(Jan 2017 - Sep 2017)_ <br>
+- Implemented C++ components to orchestrate the exchange of messages on a highly distributed system, [PTC](https://railroads.dot.gov/train-control/ptc/positive-train-control-ptc).
 - Implemented Ruby simulators capable of emulating production components’ behavior, enabling SDETs to write tests decoupled from production components. Simulators used inside user acceptance tests, driven by Cucumber.
 - Introduced new methodology to estimate user stories’ complexity, helping the team improve estimation accuracy. Methodology adopted by all 5 development teams.
 
