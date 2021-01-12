@@ -8,7 +8,7 @@ _Software Engineer based in Seattle, WA_ <br>
 
 ### @ [**Groove**](https://www.groove.co/) _in Seattle, WA_ <br>
 ##### Web development _(2 years, 7 months)_
-> Ruby on Rails, PostgreSQL, Javascript, React, APEX (Salesforce), Heroku, AWS
+> Ruby on Rails, PostgreSQL, Javascript-Typescript, Next.js, React, APEX (Salesforce), Heroku, AWS
 
 **Senior Software Engineer** _(Mar 2020 - Present)_ <br>
 - Leading a 4-person team.
