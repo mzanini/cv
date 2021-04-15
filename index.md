@@ -8,7 +8,7 @@ _Software Engineer based in Seattle, WA_ <br>
 
 ### @ [**Groove**](https://www.groove.co/) _in Seattle, WA_ <br>
 ##### Web development _(2 years, 7 months)_
-> Ruby on Rails, PostgreSQL, Javascript-Typescript, Next.js, React, APEX (Salesforce), Heroku, AWS
+> Ruby on Rails, PostgreSQL, Javascript-Typescript, Next.js, React, APEX (Salesforce), Heroku, AWS, GraphQl
 
 **Senior Software Engineer** _(Mar 2020 - Present)_ <br>
 - Leading a 4-person team.
@@ -17,6 +17,7 @@ _Software Engineer based in Seattle, WA_ <br>
 **Software Engineer II** _(Jun 2018 - Mar 2020)_ <br>
 - Maintainer of Groove's Salesforce managed package. Implemented logic and APIs to support some of the most important features in Groove.
 - Lead the team that built Groove's meeting scheduler.
+- Implemented part of Groove's GraphQl API
 
 ### @ [**Meteorcomm**](https://meteorcomm.com/) _in Seattle, WA_<br>
 ##### Linux, Messaging Systems _(1 year, 5 months)_
