@@ -11,16 +11,22 @@ _Software Engineer based in Seattle, WA_ <br>
 > Ruby on Rails, GraphQl, PostgreSQL, Javascript-Typescript, Next.js, React, APEX (Salesforce), Heroku, AWS
 
 **Senior Software Engineer - Tech Lead** _(Mar 2020 - Present)_ <br>
-- Lead the [Auto Contact Capture](https://www.groove.co/blog/groove-expands-revenue-intelligence-capabilities-with-auto-contact-capture/) project, expanding Groove's revenue intelligence capabilities. 
+- Lead the [Auto Contact Capture](https://www.groove.co/blog/groove-expands-revenue-intelligence-capabilities-with-auto-contact-capture/) project, expanding Groove's revenue intelligence capabilities.
 - Tech lead of the squad. Implemented processes to improve employee productivity, writing tech specs and product specs for some of the most important projects at Groove.
 - Manager of the squad members (2-3 engineers). Onboarding new employees, providing feedback and coaching, 1:1, performance reviews, etc.
-- Modernized the Groove licensing system: management of product licenses between Salesforce and Groove. 
+- Modernized the Groove licensing system: management of product licenses between Salesforce and Groove.
 
 **Software Engineer II** _(Jun 2018 - Mar 2020)_ <br>
 - Maintainer of Groove's Salesforce managed package. Implemented logic and APIs to support some of the most important features in Groove.
 - Lead the team that built Groove's meeting scheduler.
 - Implemented part of Groove's GraphQl API
 
+### @ [**Zero Mile Labs**](https://www.zeromilelabs.com) _in Issaquah, WA_ <br>
+##### Mobile app development _(9 months)_
+> React Native, Ruby on Rails, GraphQl
+
+**Owner** _(Jan 2021 - Present)_ <br>
+I founded Zero Mile Labs with one goal: shorten the distance between people and their food. With that goal, I built [`CropStand`](http://albatros.zeromilelabs.com/chickadee), a mobile app that allows small food producers to get their roadside produce stand online in minutes. Producers list the produce they have available and accept payments entirely in the app.
 ### @ [**Meteorcomm**](https://meteorcomm.com/) _in Seattle, WA_<br>
 ##### Linux, Messaging Systems _(1 year, 5 months)_
 > C++, Ruby, AMQP, Apache Qpid, Docker, Kubernetes, Openshift, [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux), Ansible
