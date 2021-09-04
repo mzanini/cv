@@ -10,7 +10,7 @@ _Software Engineer based in Seattle, WA_ <br>
 ##### Web development _(3 years, 4 months)_
 > Ruby on Rails, GraphQl, PostgreSQL, Javascript-Typescript, Next.js, React, APEX (Salesforce), Heroku, AWS
 
-**Eng Lead** _(Jan 2021 - Present)_ <br>
+**Engineering Lead** _(Jan 2021 - Present)_ <br>
 - Eng Lead of the Activity Capture squad.
 - Direct manager of 2 engineers.
 - Shipped [Auto Contact Capture](https://www.groove.co/blog/groove-expands-revenue-intelligence-capabilities-with-auto-contact-capture/), expanding Groove's revenue intelligence capabilities.
@@ -18,15 +18,15 @@ _Software Engineer based in Seattle, WA_ <br>
 
 **Senior Software Engineer** _(Mar 2020 - Jan 2021)_ <br>
 - Tech lead of the squad: writing product and tech spec working very closely with the squad's product manager.
-- Lead project to upgrade the backend from Rails 4.2 to Rails 5.2
-- Implemented new AWS-based Key Management System
-- Re-engineered the entire licensing system.
+- Lead backend upgrade from Rails 4.2 to Rails 5.2.
+- Implemented new AWS-based Key Management System.
+- Re-engineered the entire license management system.
 - Direct manager of 1 engineer and 1 contractor.
 
-**Software Engineer II** _(Jun 2018 - Mar 2020)_ <br>
+**Full Stack Software Engineer** _(Jun 2018 - Mar 2020)_ <br>
 - Lead the 2-person team that rebuilt Groove's meeting scheduler from scratch, using Next.js and Ruby on Rails.
-- Took ownership of Groove's Salesforce managed package, written in APEX. Refactored important part of the code and implemented logic and APIs to support some of the most important features in Groove.
-- Implemented part of Groove's GraphQl API
+- Took ownership of Groove's Salesforce managed package, written in APEX.
+- Implemented APIs in GraphQl.
 
 ### @ [**Zero Mile Labs**](https://www.zeromilelabs.com) _in Issaquah, WA_ <br>
 ##### Mobile app development _(9 months)_
