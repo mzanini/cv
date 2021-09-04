@@ -7,18 +7,25 @@ _Software Engineer based in Seattle, WA_ <br>
 ## 🤓 Work Experience (~8 years)
 
 ### @ [**Groove**](https://www.groove.co/) _in Seattle, WA_ <br>
-##### Web development _(3 years, 1 month)_
+##### Web development _(3 years, 4 months)_
 > Ruby on Rails, GraphQl, PostgreSQL, Javascript-Typescript, Next.js, React, APEX (Salesforce), Heroku, AWS
 
-**Senior Software Engineer - Tech Lead** _(Mar 2020 - Present)_ <br>
-- Lead the [Auto Contact Capture](https://www.groove.co/blog/groove-expands-revenue-intelligence-capabilities-with-auto-contact-capture/) project, expanding Groove's revenue intelligence capabilities.
-- Tech lead of the squad. Implemented processes to improve employee productivity, writing tech specs and product specs for some of the most important projects at Groove.
-- Manager of the squad members (2-3 engineers). Onboarding new employees, providing feedback and coaching, 1:1, performance reviews, etc.
-- Modernized the Groove licensing system: management of product licenses between Salesforce and Groove.
+**Eng Lead** _(Jan 2021 - Present)_ <br>
+- Eng Lead of the Activity Capture squad.
+- Direct manager of 2 engineers.
+- Shipped [Auto Contact Capture](https://www.groove.co/blog/groove-expands-revenue-intelligence-capabilities-with-auto-contact-capture/), expanding Groove's revenue intelligence capabilities.
+- Moved the entire Salesforce Managed Package development environment to [SFDX](https://developer.salesforce.com/developer-centers/developer-experience).
+
+**Senior Software Engineer** _(Mar 2020 - Jan 2021)_ <br>
+- Tech lead of the squad: writing product and tech spec working very closely with the squad's product manager.
+- Lead project to upgrade the backend from Rails 4.2 to Rails 5.2
+- Implemented new AWS-based Key Management System
+- Re-engineered the entire licensing system.
+- Direct manager of 1 engineer and 1 contractor.
 
 **Software Engineer II** _(Jun 2018 - Mar 2020)_ <br>
-- Maintainer of Groove's Salesforce managed package. Implemented logic and APIs to support some of the most important features in Groove.
-- Lead the team that built Groove's meeting scheduler.
+- Lead the 2-person team that rebuilt Groove's meeting scheduler from scratch, using Next.js and Ruby on Rails.
+- Took ownership of Groove's Salesforce managed package, written in APEX. Refactored important part of the code and implemented logic and APIs to support some of the most important features in Groove.
 - Implemented part of Groove's GraphQl API
 
 ### @ [**Zero Mile Labs**](https://www.zeromilelabs.com) _in Issaquah, WA_ <br>
