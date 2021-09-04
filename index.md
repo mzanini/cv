@@ -1,6 +1,6 @@
 # Marco Zanini
 
-_Software Engineer based in Seattle, WA_ <br>
+_Engineering Lead based in Seattle, WA_ <br>
 
 [GitHub](https://github.com/mzanini/) / [LinkedIn](https://www.linkedin.com/in/marco-zanini)
 
@@ -18,13 +18,13 @@ _Software Engineer based in Seattle, WA_ <br>
 
 **Senior Software Engineer** _(Mar 2020 - Jan 2021)_ <br>
 - Tech lead of the squad: writing product and tech spec working very closely with the squad's product manager.
-- Lead backend upgrade from Rails 4.2 to Rails 5.2.
+- Led backend upgrade from Rails 4.2 to Rails 5.2.
 - Implemented new AWS-based Key Management System.
 - Re-engineered the entire license management system.
 - Direct manager of 1 engineer and 1 contractor.
 
 **Full Stack Software Engineer** _(Jun 2018 - Mar 2020)_ <br>
-- Lead the 2-person team that rebuilt Groove's meeting scheduler from scratch, using Next.js and Ruby on Rails.
+- Led the 2-person team that rebuilt Groove's meeting scheduler from scratch, using Next.js and Ruby on Rails.
 - Took ownership of Groove's Salesforce managed package, written in APEX.
 - Implemented APIs in GraphQl.
 
