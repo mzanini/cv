@@ -14,7 +14,7 @@ _Engineering Lead based in Seattle, WA_ <br>
 - Eng Lead of the Activity Capture squad.
 - Direct manager of 2 engineers.
 - Shipped [Auto Contact Capture](https://www.groove.co/blog/groove-expands-revenue-intelligence-capabilities-with-auto-contact-capture/), expanding Groove's revenue intelligence capabilities.
-- Moved the entire Salesforce Managed Package development environment to [SFDX](https://developer.salesforce.com/developer-centers/developer-experience).
+- Moved the entire Salesforce Managed Package development environment to [SFDX](https://developer.salesforce.com/developer-centers/developer-experience), allowing parallel feature development and CI/CD.
 
 **Senior Software Engineer** _(Mar 2020 - Jan 2021)_ <br>
 - Tech lead of the squad: writing product and tech spec working very closely with the squad's product manager.
