@@ -22,14 +22,16 @@ Eng Lead of the Activity Capture squad. Direct manager of 2 engineers.
 - Moved the entire Salesforce Managed Package development environment to [SFDX](https://developer.salesforce.com/developer-centers/developer-experience), allowing parallel feature development and CI/CD.
 
 **Senior Software Engineer** _(Mar 2020 - Jan 2021)_ <br>
-- Tech lead of the squad: writing product and tech spec working very closely with the squad's product manager.
+Tech lead of the squad: writing product and tech spec working very closely with the squad's product manager.
+
 - Led backend upgrade from Rails 4.2 to Rails 5.2.
 - Implemented new AWS-based Key Management System.
 - Re-engineered the entire license management system.
 - Direct manager of 1 engineer and 1 contractor.
 
 **Full Stack Software Engineer** _(Jun 2018 - Mar 2020)_ <br>
-- Led the 2-person team that rebuilt Groove's meeting scheduler from scratch, using Next.js and Ruby on Rails.
+Led the 2-person team that rebuilt Groove's meeting scheduler from scratch, using Next.js and Ruby on Rails.
+
 - Took ownership of Groove's Salesforce managed package, written in APEX.
 - Implemented APIs in GraphQl.
 
@@ -47,7 +49,7 @@ I founded Zero Mile Labs with one goal: shorten the distance between people and 
 - Re-designined the legacy Messaging application to transition to a container-based architecture.
 
 **Team Lead and Evangelist**  _(Oct 2017 - Dec 2017)_ <br>
-- Leading a mixed team of contractors and permanent employees, we incorporated Google Sanitizers in the local development environment, build, and testing systems.
+Leading a mixed team of contractors and permanent employees, we incorporated Google Sanitizers in the local development environment, build, and testing systems.
 
 **Software Engineer II**  _(Jan 2017 - Sep 2017)_ <br>
 - Implemented C++ components to orchestrate the exchange of messages on a highly distributed system, [PTC](https://railroads.dot.gov/train-control/ptc/positive-train-control-ptc).
