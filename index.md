@@ -1,18 +1,23 @@
 # Marco Zanini
 
-_Engineering Lead based in Seattle, WA_ <br>
+_Engineering Manager based in Seattle, WA_ <br>
 
 [GitHub](https://github.com/mzanini/) / [LinkedIn](https://www.linkedin.com/in/marco-zanini)
 
 ## 🤓 Work Experience (~8 years)
 
 ### @ [**Groove**](https://www.groove.co/) _in Seattle, WA_ <br>
-##### Web development _(3 years, 4 months)_
+##### Web development _(3 years, 6 months)_
 > Ruby on Rails, GraphQl, PostgreSQL, Javascript-Typescript, Next.js, React, APEX (Salesforce), Heroku, AWS
 
-**Engineering Lead** _(Jan 2021 - Present)_ <br>
-- Eng Lead of the Activity Capture squad.
-- Direct manager of 2 engineers.
+**Engineering Manager** _(Oct 2021 - Present)_ <br>
+Eng Manager of the Activity Capture squad. Direct manager of 3 engineers.
+
+- Shipped [Automatic Logging to Custom Objects](https://www.groove.co/blog/groove-releases-new-features-for-complex-enterprise-workflows/)
+
+**Engineering Lead** _(Jan 2021 - Oct 2021)_ <br>
+Eng Lead of the Activity Capture squad. Direct manager of 2 engineers.
+
 - Shipped [Auto Contact Capture](https://www.groove.co/blog/groove-expands-revenue-intelligence-capabilities-with-auto-contact-capture/), expanding Groove's revenue intelligence capabilities.
 - Moved the entire Salesforce Managed Package development environment to [SFDX](https://developer.salesforce.com/developer-centers/developer-experience), allowing parallel feature development and CI/CD.
 
