@@ -4,11 +4,16 @@ _Engineering Lead based in Seattle, WA_ <br>
 
 [GitHub](https://github.com/mzanini/) / [LinkedIn](https://www.linkedin.com/in/marco-zanini)
 
-## 🤓 Work Experience (~8 years)
+## 🤓 Work Experience (~10 years)
 
 ### @ [**Groove**](https://www.groove.co/) _in Seattle, WA_ <br>
-##### Web development _(3 years, 4 months)_
+##### Web development _(4 years, 2 months)_
 > Ruby on Rails, GraphQl, PostgreSQL, Javascript-Typescript, Next.js, React, APEX (Salesforce), Heroku, AWS
+
+**Engineering Manager** _(Jan 2021 - Present)_ <br>
+- Direct manager of 5 engineers.
+- Shipped [Groove Conversations](https://www.groove.co/blog/groove-announces-new-conversation-intelligence-product-and-mobile-app/), Groove's first Conversation Intelligence product. Groove Conversations automatically captures your Zoom meetings, associates them to the right Salesforce objects and provides valuable insights to your sales team.
+- Shipped [Automatic Logging To Custom Objects](https://www.groove.co/blog/groove-releases-new-features-for-complex-enterprise-workflows/), allowing Groove's customers to further personalize their logging strategy and fully leverage Groove's Salesforce native  architecture.
 
 **Engineering Lead** _(Jan 2021 - Present)_ <br>
 - Eng Lead of the Activity Capture squad.
@@ -33,7 +38,7 @@ _Engineering Lead based in Seattle, WA_ <br>
 > React Native, Ruby on Rails, GraphQl
 
 **Owner** _(Jan 2021 - Present)_ <br>
-I founded Zero Mile Labs with one goal: shorten the distance between people and their food. With that goal, I built [`CropStand`](http://albatros.zeromilelabs.com/chickadee), a mobile app that allows small food producers to get their roadside produce stand online in minutes. Producers list the produce they have available and accept payments entirely in the app.
+I founded Zero Mile Labs with one goal: shorten the distance between people and their food. With that goal, I built [`CropStand`](https://www.zeromilelabs.com/cropstand), a mobile app that allows small food producers to get their roadside produce stand online in minutes. Producers list the produce they have available and accept payments entirely in the app.
 ### @ [**Meteorcomm**](https://meteorcomm.com/) _in Seattle, WA_<br>
 ##### Linux, Messaging Systems _(1 year, 5 months)_
 > C++, Ruby, AMQP, Apache Qpid, Docker, Kubernetes, Openshift, [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux), Ansible
