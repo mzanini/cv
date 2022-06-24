@@ -1,6 +1,6 @@
 # Marco Zanini
 
-_Engineering Lead based in Seattle, WA_ <br>
+_Engineering Manager based in Seattle, WA_ <br>
 
 [GitHub](https://github.com/mzanini/) / [LinkedIn](https://www.linkedin.com/in/marco-zanini)
 
@@ -10,26 +10,29 @@ _Engineering Lead based in Seattle, WA_ <br>
 ##### Web development _(4 years, 2 months)_
 > Ruby on Rails, GraphQl, PostgreSQL, Javascript-Typescript, Next.js, React, APEX (Salesforce), Heroku, AWS
 
-**Engineering Manager** _(Jan 2021 - Present)_ <br>
-- Direct manager of 5 engineers.
+**Engineering Manager** _(Oct 2021 - Present)_ <br>
+Eng Manager of the Activity Capture squad. Direct manager of 5 engineers.
+
 - Shipped [Groove Conversations](https://www.groove.co/blog/groove-announces-new-conversation-intelligence-product-and-mobile-app/), Groove's first Conversation Intelligence product. Groove Conversations automatically captures your Zoom meetings, associates them to the right Salesforce objects and provides valuable insights to your sales team.
 - Shipped [Automatic Logging To Custom Objects](https://www.groove.co/blog/groove-releases-new-features-for-complex-enterprise-workflows/), allowing Groove's customers to further personalize their logging strategy and fully leverage Groove's Salesforce native  architecture.
 
 **Engineering Lead** _(Jan 2021 - Present)_ <br>
-- Eng Lead of the Activity Capture squad.
-- Direct manager of 2 engineers.
+Eng Lead of the Activity Capture squad. Direct manager of 2 engineers.
+
 - Shipped [Auto Contact Capture](https://www.groove.co/blog/groove-expands-revenue-intelligence-capabilities-with-auto-contact-capture/), expanding Groove's revenue intelligence capabilities.
 - Moved the entire Salesforce Managed Package development environment to [SFDX](https://developer.salesforce.com/developer-centers/developer-experience), allowing parallel feature development and CI/CD.
 
 **Senior Software Engineer** _(Mar 2020 - Jan 2021)_ <br>
-- Tech lead of the squad: writing product and tech spec working very closely with the squad's product manager.
+Tech lead of the squad: writing product and tech spec working very closely with the squad's product manager.
+
 - Led backend upgrade from Rails 4.2 to Rails 5.2.
 - Implemented new AWS-based Key Management System.
 - Re-engineered the entire license management system.
 - Direct manager of 1 engineer and 1 contractor.
 
 **Full Stack Software Engineer** _(Jun 2018 - Mar 2020)_ <br>
-- Led the 2-person team that rebuilt Groove's meeting scheduler from scratch, using Next.js and Ruby on Rails.
+Led the 2-person team that rebuilt Groove's meeting scheduler from scratch, using Next.js and Ruby on Rails.
+
 - Took ownership of Groove's Salesforce managed package, written in APEX.
 - Implemented APIs in GraphQl.
 
@@ -47,7 +50,7 @@ I founded Zero Mile Labs with one goal: shorten the distance between people and 
 - Re-designined the legacy Messaging application to transition to a container-based architecture.
 
 **Team Lead and Evangelist**  _(Oct 2017 - Dec 2017)_ <br>
-- Leading a mixed team of contractors and permanent employees, we incorporated Google Sanitizers in the local development environment, build, and testing systems.
+Leading a mixed team of contractors and permanent employees, we incorporated Google Sanitizers in the local development environment, build, and testing systems.
 
 **Software Engineer II**  _(Jan 2017 - Sep 2017)_ <br>
 - Implemented C++ components to orchestrate the exchange of messages on a highly distributed system, [PTC](https://railroads.dot.gov/train-control/ptc/positive-train-control-ptc).
