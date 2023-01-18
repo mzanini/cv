@@ -1,6 +1,6 @@
 # Marco Zanini
 
-_Engineering Manager based in Seattle, WA_ <br>
+_Engineering To Close The Gap. Based in the Greater Seattle Area_ <br>
 
 [GitHub](https://github.com/mzanini/) / [LinkedIn](https://www.linkedin.com/in/marco-zanini)
 
@@ -9,6 +9,9 @@ _Engineering Manager based in Seattle, WA_ <br>
 ### @ [**Groove**](https://www.groove.co/) _in Seattle, WA_ <br>
 ##### Web development _(4 years, 2 months)_
 > Ruby on Rails, GraphQl, PostgreSQL, Javascript-Typescript, Next.js, React, APEX (Salesforce), Heroku, AWS
+
+**Software Engineer** _(Jan 2023 - Present)_ <br>
+Stepped down from the EM role for personal reasons. Focusing on Rails 6 upgrade.
 
 **Engineering Manager** _(Oct 2021 - Present)_ <br>
 Eng Manager of the Activity Capture squad. Direct manager of 5 engineers.
