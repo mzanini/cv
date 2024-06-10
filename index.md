@@ -5,11 +5,11 @@ _Engineering To Close The Gap. Based in the Greater Seattle Area_ <br>
 [GitHub](https://github.com/mzanini/) / [LinkedIn](https://www.linkedin.com/in/marco-zanini)
 
 ## 🤓 Work Experience (~10 years)
-### @ [**Clari**](https://www.clari.com/) _in Seattle, WA_ <br>
-
-##### Web development _(5 years)_
+##### Web development _(6 years)_
 
 > Ruby on Rails, GraphQl, PostgreSQL, Javascript-Typescript, Next.js, React, APEX (Salesforce), Heroku, AWS
+
+### @ [**Clari**](https://www.clari.com/) _in Seattle, WA_ <br>
 
 **Staff Sotware Engineer - Architecture Team** _(Aug 2023 - Present)_ <br>
 - Shipped first version of partner API and API strategy for Clari's Groove
@@ -50,7 +50,7 @@ Led the 2-person team that rebuilt Groove's meeting scheduler from scratch, usin
 
 ### @ [**Zero Mile Labs**](https://www.zeromilelabs.com) _in Issaquah, WA_ <br>
 
-##### Mobile app development _(9 months)_
+##### Mobile app development _(3 years)_
 
 > React Native, Ruby on Rails, GraphQl
 
