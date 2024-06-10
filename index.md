@@ -1,22 +1,29 @@
 # Marco Zanini
 
-_Engineering Manager based in Seattle, WA_ <br>
+_Software Architect based in Seattle, WA_ <br>
 
 [GitHub](https://github.com/mzanini/) / [LinkedIn](https://www.linkedin.com/in/marco-zanini)
 
 ## 🤓 Work Experience (~10 years)
+### @ [**Clari**](https://www.clari.com/) _in Seattle, WA_ <br>
+**Staff Sotware Engineer - Architecture Team** _(Aug 2023 - Present)_ <br>
+- Shipped first version of partner API and API strategy for Clari's Groove
+- Radically modernized Clari's Groove dialer with an event-based system
 
 ### @ [**Groove**](https://www.groove.co/) _in Seattle, WA_ <br>
 ##### Web development _(4 years, 2 months)_
 > Ruby on Rails, GraphQl, PostgreSQL, Javascript-Typescript, Next.js, React, APEX (Salesforce), Heroku, AWS
 
-**Engineering Manager** _(Oct 2021 - Present)_ <br>
+**Sotware Architect** _(Jan 2023 - Aug 2023)_ <br>
+
+
+**Engineering Manager** _(Oct 2021 - Jan 2023)_ <br>
 Eng Manager of the Activity Capture squad. Direct manager of 5 engineers.
 
 - Shipped [Groove Conversations](https://www.groove.co/blog/groove-announces-new-conversation-intelligence-product-and-mobile-app/), Groove's first Conversation Intelligence product. Groove Conversations automatically captures your Zoom meetings, associates them to the right Salesforce objects and provides valuable insights to your sales team.
 - Shipped [Automatic Logging To Custom Objects](https://www.groove.co/blog/groove-releases-new-features-for-complex-enterprise-workflows/), allowing Groove's customers to further personalize their logging strategy and fully leverage Groove's Salesforce native  architecture.
 
-**Engineering Lead** _(Jan 2021 - Present)_ <br>
+**Engineering Lead** _(Jan 2021 - Oct 2021)_ <br>
 Eng Lead of the Activity Capture squad. Direct manager of 2 engineers.
 
 - Shipped [Auto Contact Capture](https://www.groove.co/blog/groove-expands-revenue-intelligence-capabilities-with-auto-contact-capture/), expanding Groove's revenue intelligence capabilities.
