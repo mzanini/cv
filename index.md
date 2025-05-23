@@ -6,7 +6,7 @@ _Engineering To Close The Gap. Based in the Greater Seattle Area_ <br>
 
 ## 🤓 Work Experience (~10 years)
 
-### @ [**Clari**](https://www.clari.com/) _in Seattle, WA_ <br>
+### @ [**Clari**](https://www.clari.com/) _in Seattle, WA (remote)_ <br>
 
 ##### Web development _(1 year)_
 
