@@ -13,8 +13,10 @@ _Engineering To Close The Gap. Based in the Greater Seattle Area_ <br>
 > Ruby on Rails, Typescript, GraphQl, PostgreSQL,  React, AWS
 
 **Staff Sotware Engineer - Architecture Team** _(Aug 2023 - Present)_ <br>
-- Shipped first version of partner API and API strategy for Clari's Groove
-- Radically modernized Clari's Groove dialer with an event-based system
+Driving technical projects across the company: focusing on architecture, performance, and cost optimization.
+- Modernizing Clari's Groove infrastructure for cost optimization and performance focusing on AWS services.
+- Shipped first version of partner API and API strategy for Clari's Groove, enabling [third-party integrations](https://pipeline.zoominfo.com/sales/clari-groove-integration). JsonApi for the win!
+- Radically modernized Clari's Groove dialer with an event-based system, taming Twilio's complexity and improving performance.
 
 ### @ [**Groove**](https://www.groove.co/) _in Seattle, WA_ <br>
 
@@ -23,8 +25,9 @@ _Engineering To Close The Gap. Based in the Greater Seattle Area_ <br>
 > Ruby on Rails, GraphQl, PostgreSQL, Javascript-Typescript, Next.js, React, APEX (Salesforce), Heroku, AWS
 
 **Software Architect** _(Jan 2023 - Aug 2023)_ <br>
+Lead company-wide projects to create the sales engagement platform of the future.
 - Rails 6 and 6.1 upgrade.
-- Read replica DB implementation.
+- Introduced read replica DB to improve query performance.
 - Introduced private gems to better modularize code.
 
 **Engineering Manager** _(Oct 2021 - Dec 2022)_ <br>
@@ -55,12 +58,14 @@ Led the 2-person team that rebuilt Groove's meeting scheduler from scratch, usin
 
 ### @ [**Zero Mile Labs**](https://www.zeromilelabs.com) _in Issaquah, WA_ <br>
 
-##### Mobile app development _(3 years)_
+##### Mobile app development _(5 years)_
 
 > React Native, Ruby on Rails, GraphQl
 
 **Owner** _(Jan 2021 - Present)_ <br>
 I founded Zero Mile Labs with one goal: shorten the distance between people and their food. With that goal, I built [`CropStand`](https://www.zeromilelabs.com/cropstand), a mobile app that allows small food producers to get their roadside produce stand online in minutes. Producers list the produce they have available and accept payments entirely in the app.
+
+Logo and app design, wireframing, development and deployment all done by yours truly. The app is available on both iOS and Android.
 
 ### @ [**Meteorcomm**](https://meteorcomm.com/) _in Seattle, WA_<br>
 
