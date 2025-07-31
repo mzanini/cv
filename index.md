@@ -10,11 +10,11 @@ _Engineering To Close The Gap. Based in the Greater Seattle Area_ <br>
 
 ##### Web development _(2 years)_
 
-> Ruby on Rails, Typescript, GraphQl, PostgreSQL,  React, AWS
+> Ruby on Rails, Typescript, GraphQl, PostgreSQL,  React, AWS, Kubernetes, Docker, Heroku
 
 **Staff Sotware Engineer - Architecture Team** _(Aug 2023 - Present)_ <br>
 Driving technical projects across the company: focusing on architecture, performance, and cost optimization.
-- Modernizing Clari's Groove infrastructure for cost optimization and performance focusing on AWS services.
+- Modernizing Clari's Groove infrastructure for cost optimization and performance focusing on AWS services. Migration to k8s.
 - Shipped first version of partner API and API strategy for Clari's Groove, enabling [third-party integrations](https://pipeline.zoominfo.com/sales/clari-groove-integration). [Jsonapi](https://jsonapi.org/) for the win!
 - Radically modernized Clari's Groove dialer with an event-based system, taming Twilio's complexity and improving performance.
 
