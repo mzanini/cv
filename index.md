@@ -8,7 +8,7 @@ _Engineering To Close The Gap. Based in the Greater Seattle Area_ <br>
 
 ### @ [**Clari**](https://www.clari.com/) _in Seattle, WA (remote)_ <br>
 
-##### Web development _(1 year)_
+##### Web development _(2 years)_
 
 > Ruby on Rails, Typescript, GraphQl, PostgreSQL,  React, AWS
 
