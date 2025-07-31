@@ -18,7 +18,7 @@ Driving technical projects across the company: focusing on architecture, perform
 - Shipped first version of partner API and API strategy for Clari's Groove, enabling [third-party integrations](https://pipeline.zoominfo.com/sales/clari-groove-integration). [Jsonapi](https://jsonapi.org/) for the win!
 - Radically modernized Clari's Groove dialer with an event-based system, taming Twilio's complexity and improving performance.
 
-### @ [**Groove**](https://www.groove.co/) _in Seattle, WA_ <br>
+### @ [**Groove (acquired by Clari)**](https://www.groove.co/) _in Seattle, WA_ <br>
 
 ##### Web development _(6 years)_
 
