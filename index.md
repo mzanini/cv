@@ -53,7 +53,7 @@ Led the 2-person team that rebuilt Groove's meeting scheduler from scratch, usin
 - Took ownership of Groove's Salesforce managed package, written in APEX.
 - Implemented APIs in GraphQL.
 
-### @ [**Zero Mile Labs**](https://www.zeromilelabs.com) _in Issaquah, WA_ <br>
+### @ [**Zero Mile Labs**](https://www.zeromilelabs.com) _in Issaquah, WA_ **(Side Project)**<br>
 
 > React Native, Ruby on Rails, GraphQL
 
