@@ -76,12 +76,9 @@ Logo and app design, wireframing, development and deployment all done by yours t
 > C++, C#, WPF, TDD
 
 **Software Engineer** _(Feb 2013 - Jun 2016)_ <br>
-
-- Implemented C++ components to integrate new well sampling tools into Schlumberger's Data Acquisition and Processing Platform (Maxwell).
-- Developed UI-based workflows on top of Maxwell to troubleshoot tools’ failures.
-- Converted Matlab processing library to C++ using [Armadillo](http://arma.sourceforge.net/), eliminating the need for Matlab licenses and halving execution time.
-- Eased the transition to Scrum as the Scrum Master of a five person team. Introduced XP technical practices like TDD and Pair Programming with face-to-face tutoring and presentations, increasing test coverage by 50% on single components.
-- Graduated from Schlumberger's internal training program (ADVANCE) by completing proof of concept of mobile monitoring system for well testing equipment. Predicted savings up to $5,000/job via workload reduction and safety improvements.
+- Implemented C++ services and UI workflows for data acquisition/processing.
+- Converted MATLAB library to C++ (Armadillo), 2× faster and no license dependency.
+- Drove engineering practices as Scrum Master (TDD/pairing), raising coverage ≈50%; shipped monitoring POC to unlock ~$5k/job savings.
 
 ### @ [**The Irish Software Engineering Research Center (LERO)**](https://www.lero.ie/) _in Limerick, Ireland_ <br>
 
