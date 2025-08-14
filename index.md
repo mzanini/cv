@@ -1,29 +1,29 @@
-# Marco Zanini
+# Marco Zanini - Staff/Principal-level Platform & API
 [github.com/mzanini](https://github.com/mzanini/) • [linkedin.com/in/marco-zanini ](https://www.linkedin.com/in/marco-zanini) • marco.zanini@hey.com
 
-> Staff/Principal-level engineer. I’ve led and shipped company-wide initiatives with enduring impact on performance, cost, and product differentiation. Most recently: architected and led the Heroku→AWS migration, defined Clari's Groove API strategy—shipping the first public API to enable third-party integrations. <br>
+> I’ve led and shipped company-wide initiatives with enduring impact on performance, cost, and product differentiation. Most recently: architected and led the Heroku→AWS migration, defined Clari's Groove API strategy—shipping the first public API to enable third-party integrations. <br>
 
 _Based in the Greater Seattle Area_ <br>
 
-## 🤓 Work Experience (~10 years)
+## 🤓 Work Experience (~12 years)
 
 ### @ [**Clari**](https://www.clari.com/) _in Seattle, WA (remote)_ <br>
 
 ##### Web development _(2 years)_
 
-> Ruby on Rails, Typescript, GraphQl, PostgreSQL,  React, AWS, Kubernetes, Docker, Heroku
+> Ruby on Rails, Typescript, GraphQL, PostgreSQL,  React, AWS, Kubernetes, Docker, Heroku
 
-**Staff Sotware Engineer - Architecture Team** _(Aug 2023 - Present)_ <br>
+**Staff Software Engineer - Architecture Team** _(Aug 2023 - Present)_ <br>
 Driving technical projects across the company: focusing on architecture, performance, and cost optimization.
-- Modernizing Clari's Groove infrastructure for cost optimization and performance focusing on AWS services. Migration to k8s.
-- Shipped first version of partner API and API strategy for Clari's Groove, enabling [third-party integrations](https://pipeline.zoominfo.com/sales/clari-groove-integration). [Jsonapi](https://jsonapi.org/) for the win!
+- Modernizing Clari's Groove infrastructure for cost optimization and performance focusing on AWS services. Migration to Kubernetes.
+- Shipped first version of partner API and API strategy for Clari's Groove, enabling [third-party integrations](https://pipeline.zoominfo.com/sales/clari-groove-integration). [JSON:API](https://jsonapi.org/) for the win!
 - Radically modernized Clari's Groove dialer with an event-based system, taming Twilio's complexity and improving performance.
 
 ### @ [**Groove (acquired by Clari)**](https://www.groove.co/) _in Seattle, WA_ <br>
 
 ##### Web development _(6 years)_
 
-> Ruby on Rails, GraphQl, PostgreSQL, Javascript-Typescript, Next.js, React, APEX (Salesforce), Heroku, AWS
+> Ruby on Rails, GraphQL, PostgreSQL, JavaScript/TypeScript, Next.js, React, APEX (Salesforce), Heroku, AWS
 
 **Software Architect** _(Jan 2023 - Aug 2023)_ <br>
 Lead company-wide projects to create the sales engagement platform of the future.
@@ -55,13 +55,13 @@ Tech lead of the squad: writing product and tech spec working very closely with 
 Led the 2-person team that rebuilt Groove's meeting scheduler from scratch, using Next.js and Ruby on Rails.
 
 - Took ownership of Groove's Salesforce managed package, written in APEX.
-- Implemented APIs in GraphQl.
+- Implemented APIs in GraphQL.
 
 ### @ [**Zero Mile Labs**](https://www.zeromilelabs.com) _in Issaquah, WA_ <br>
 
 ##### Mobile app development _(5 years)_
 
-> React Native, Ruby on Rails, GraphQl
+> React Native, Ruby on Rails, GraphQL
 
 **Owner** _(Jan 2021 - Present)_ <br>
 I founded Zero Mile Labs with one goal: shorten the distance between people and their food. With that goal, I built [`CropStand`](https://www.zeromilelabs.com/cropstand), a mobile app that allows small food producers to get their roadside produce stand online in minutes. Producers list the produce they have available and accept payments entirely in the app.
@@ -72,11 +72,11 @@ Logo and app design, wireframing, development and deployment all done by yours t
 
 ##### Linux, Messaging Systems _(1 year, 5 months)_
 
-> C++, Ruby, AMQP, Apache Qpid, Docker, Kubernetes, Openshift, [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux), Ansible
+> C++, Ruby, AMQP, Apache Qpid, Docker, Kubernetes, OpenShift, [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux), Ansible
 
 **Software Engineer II** _(Jan 2018 - May 2018)_ <br>
 
-- Re-designined the legacy Messaging application to transition to a container-based architecture.
+- Redesigned the legacy Messaging application to transition to a container-based architecture.
 
 **Team Lead and Evangelist** _(Oct 2017 - Dec 2017)_ <br>
 Leading a mixed team of contractors and permanent employees, we incorporated Google Sanitizers in the local development environment, build, and testing systems.
@@ -98,7 +98,7 @@ Leading a mixed team of contractors and permanent employees, we incorporated Goo
 - Implemented C++ components to integrate new well sampling tools into Schlumberger's Data Acquisition and Processing Platform (Maxwell).
 - Developed UI-based workflows on top of Maxwell to troubleshoot tools’ failures.
 - Converted Matlab processing library to C++ using [Armadillo](http://arma.sourceforge.net/), eliminating the need for Matlab licenses and halving execution time.
-- Eased the transition to Scum as the Scrum Master of a five person team. Introduced XP technical practices like TDD and Pair Programming with face-to-face tutoring and presentations, increasing test coverage by 50% on single components.
+- Eased the transition to Scrum as the Scrum Master of a five person team. Introduced XP technical practices like TDD and Pair Programming with face-to-face tutoring and presentations, increasing test coverage by 50% on single components.
 - Graduated from Schlumberger's internal training program (ADVANCE) by completing proof of concept of mobile monitoring system for well testing equipment. Predicted savings up to $5,000/job via workload reduction and safety improvements.
 
 ### @ [**The Irish Software Engineering Research Center (LERO)**](https://www.lero.ie/) _in Limerick, Ireland_ <br>
