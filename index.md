@@ -1,8 +1,9 @@
 # Marco Zanini
+_Staff/Principal-level engineer. I’ve led and shipped company-wide initiatives with enduring impact on performance, cost, and product differentiation. Most recently: architected and led the Heroku→AWS migration, and defined the API strategy—shipping the first public API to enable third-party integrations._ <br>
 
-_Engineering To Close The Gap. Based in the Greater Seattle Area_ <br>
+_Based in the Greater Seattle Area_ <br>
 
-[GitHub - github.com/mzanini](https://github.com/mzanini/) • [LinkedIn - linkedin.com/in/marco-zanini ](https://www.linkedin.com/in/marco-zanini) • marco.zanini@hey.com
+[github.com/mzanini](https://github.com/mzanini/) • [linkedin.com/in/marco-zanini ](https://www.linkedin.com/in/marco-zanini) • marco.zanini@hey.com
 
 
 ## 🤓 Work Experience (~10 years)
