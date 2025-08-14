@@ -2,7 +2,8 @@
 
 _Engineering To Close The Gap. Based in the Greater Seattle Area_ <br>
 
-[GitHub](https://github.com/mzanini/) / [LinkedIn](https://www.linkedin.com/in/marco-zanini)
+[GitHub - github.com/mzanini](https://github.com/mzanini/) • [LinkedIn - linkedin.com/in/marco-zanini ](https://www.linkedin.com/in/marco-zanini) • marco.zanini@hey.com
+
 
 ## 🤓 Work Experience (~10 years)
 
