@@ -5,7 +5,7 @@
 
 _Based in the Greater Seattle Area_ <br>
 
-## 🤓 Work Experience (~12 years)
+## 🤓 Work Experience
 
 ### @ [**Clari**](https://www.clari.com/) _in Seattle, WA (remote)_ <br>
 
@@ -53,15 +53,6 @@ Led the 2-person team that rebuilt Groove's meeting scheduler from scratch, usin
 - Took ownership of Groove's Salesforce managed package, written in APEX.
 - Implemented APIs in GraphQL.
 
-### @ [**Zero Mile Labs**](https://www.zeromilelabs.com) _in Issaquah, WA_ **(Side Project)**<br>
-
-> React Native, Ruby on Rails, GraphQL
-
-**Owner** _(Jan 2021 - Present)_ <br>
-I founded Zero Mile Labs with one goal: shorten the distance between people and their food. With that goal, I built [`CropStand`](https://www.zeromilelabs.com/cropstand), a mobile app that allows small food producers to get their roadside produce stand online in minutes. Producers list the produce they have available and accept payments entirely in the app.
-
-Logo and app design, wireframing, development and deployment all done by yours truly. The app is available on both iOS and Android.
-
 ### @ [**Meteorcomm**](https://meteorcomm.com/) _in Seattle, WA_<br>
 
 > C++, Ruby, AMQP, Apache Qpid, Docker, Kubernetes, OpenShift, [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux), Ansible
@@ -86,6 +77,17 @@ Logo and app design, wireframing, development and deployment all done by yours t
 
 **Researcher, Cloud Computing** _(October 2011 – March 2012)_ <br>
 Explored different ways to dynamically enhance security in cloud computing environments. Developed novel applications of context-based countermeasures. Project conducted with the help of IBM, Dublin.
+
+## 🚀 Entrepreneurship
+
+### @ [**Zero Mile Labs**](https://www.zeromilelabs.com) _in Issaquah, WA_ **(Side Project)**<br>
+
+> React Native, Ruby on Rails, GraphQL
+
+**Owner** _(Jan 2021 - Present)_ <br>
+I founded Zero Mile Labs with one goal: shorten the distance between people and their food. With that goal, I built [`CropStand`](https://www.zeromilelabs.com/cropstand), a mobile app that allows small food producers to get their roadside produce stand online in minutes. Producers list the produce they have available and accept payments entirely in the app.
+
+Logo and app design, wireframing, development and deployment all done by yours truly. The app is available on both iOS and Android.
 
 ## 🔬 Education
 
