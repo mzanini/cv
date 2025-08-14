@@ -55,7 +55,7 @@ Led the 2-person team that rebuilt Groove's meeting scheduler from scratch, usin
 
 ### @ [**Meteorcomm**](https://meteorcomm.com/) _in Seattle, WA_<br>
 
-> C++, Ruby, AMQP, Apache Qpid, Docker, Kubernetes, OpenShift, [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux), Ansible
+> C++, Ruby, AMQP, Apache Qpid, Docker, Kubernetes, OpenShift, Red Hat Enterprise Linux, Ansible
 
 **Software Engineer II / Team Lead** _(Jan 2017 - May 2018)_ <br>
 - Redesigned a legacy messaging application toward a containerized architecture (Docker/Kubernetes/OpenShift), reducing rollout risk and simplifying ops.
