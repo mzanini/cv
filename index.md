@@ -107,7 +107,7 @@ Leading a mixed team of contractors and permanent employees, we incorporated Goo
 
 > Java
 
-**Researcher, Cloud Computing** _(October, 2011 – March, 2012)_ <br>
+**Researcher, Cloud Computing** _(October 2011 – March 2012)_ <br>
 Explored different ways to dynamically enhance security in cloud computing environments. Developed novel applications of context-based countermeasures. Project conducted with the help of IBM, Dublin.
 
 ## 🔬 Education
