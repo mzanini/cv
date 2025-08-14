@@ -9,8 +9,6 @@ _Based in the Greater Seattle Area_ <br>
 
 ### @ [**Clari**](https://www.clari.com/) _in Seattle, WA (remote)_ <br>
 
-##### Web development _(2 years)_
-
 > Ruby on Rails, Typescript, GraphQL, PostgreSQL,  React, AWS, Kubernetes, Docker, Heroku
 
 **Staff Software Engineer - Architecture Team** _(Aug 2023 - Present)_ <br>
@@ -20,8 +18,6 @@ Driving technical projects across the company: focusing on architecture, perform
 - Radically modernized Clari's Groove dialer with an event-based system, taming Twilio's complexity and improving performance.
 
 ### @ [**Groove (acquired by Clari)**](https://www.groove.co/) _in Seattle, WA_ <br>
-
-##### Web development _(6 years)_
 
 > Ruby on Rails, GraphQL, PostgreSQL, JavaScript/TypeScript, Next.js, React, APEX (Salesforce), Heroku, AWS
 
@@ -59,8 +55,6 @@ Led the 2-person team that rebuilt Groove's meeting scheduler from scratch, usin
 
 ### @ [**Zero Mile Labs**](https://www.zeromilelabs.com) _in Issaquah, WA_ <br>
 
-##### Mobile app development _(5 years)_
-
 > React Native, Ruby on Rails, GraphQL
 
 **Owner** _(Jan 2021 - Present)_ <br>
@@ -69,8 +63,6 @@ I founded Zero Mile Labs with one goal: shorten the distance between people and 
 Logo and app design, wireframing, development and deployment all done by yours truly. The app is available on both iOS and Android.
 
 ### @ [**Meteorcomm**](https://meteorcomm.com/) _in Seattle, WA_<br>
-
-##### Linux, Messaging Systems _(1 year, 5 months)_
 
 > C++, Ruby, AMQP, Apache Qpid, Docker, Kubernetes, OpenShift, [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux), Ansible
 
@@ -89,8 +81,6 @@ Leading a mixed team of contractors and permanent employees, we incorporated Goo
 
 ### @ [**Schlumberger**](https://www.slb.com/) _in Paris, France_ <br>
 
-##### Data Acquisition and Processing _(3 years, 5 months)_
-
 > C++, C#, WPF, TDD
 
 **Software Engineer** _(Feb 2013 - Jun 2016)_ <br>
@@ -102,8 +92,6 @@ Leading a mixed team of contractors and permanent employees, we incorporated Goo
 - Graduated from Schlumberger's internal training program (ADVANCE) by completing proof of concept of mobile monitoring system for well testing equipment. Predicted savings up to $5,000/job via workload reduction and safety improvements.
 
 ### @ [**The Irish Software Engineering Research Center (LERO)**](https://www.lero.ie/) _in Limerick, Ireland_ <br>
-
-##### Cloud Computing _(6 months)_
 
 > Java
 
