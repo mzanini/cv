@@ -19,39 +19,18 @@ Driving technical projects across the company: focusing on architecture, perform
 
 ### @ [**Groove (acquired by Clari)**](https://www.groove.co/) _in Seattle, WA_ <br>
 
-> Ruby on Rails, GraphQL, PostgreSQL, JavaScript/TypeScript, Next.js, React, APEX (Salesforce), Heroku, AWS
+> Ruby on Rails, GraphQL, PostgreSQL, JavaScript/TypeScript, Next.js, React, Salesforce Apex, Heroku, AWS
 
-**Software Architect** _(Jan 2023 - Aug 2023)_ <br>
+**Full-stack SWE → Sr SWE → Eng Lead → Eng Manager → Software Architect** _(Jun 2018 - Aug 2023)_ <br>
 Lead company-wide projects to create the sales engagement platform of the future.
-- Rails 6 and 6.1 upgrade.
-- Introduced read replica DB to improve query performance.
-- Introduced private gems to better modularize code.
 
-**Engineering Manager** _(Oct 2021 - Dec 2022)_ <br>
-Eng Manager of the Activity Capture squad. Direct manager of 5 engineers.
-
-- Shipped [Groove Conversations](https://www.groove.co/blog/groove-announces-new-conversation-intelligence-product-and-mobile-app/), Groove's first Conversation Intelligence product. Groove Conversations automatically captures your Zoom meetings, associates them to the right Salesforce objects and provides valuable insights to your sales team.
-- Shipped [Automatic Logging To Custom Objects](https://www.groove.co/blog/groove-releases-new-features-for-complex-enterprise-workflows/), allowing Groove's customers to further personalize their logging strategy and fully leverage Groove's Salesforce native architecture.
-
-**Engineering Lead** _(Jan 2021 - Oct 2021)_ <br>
-Eng Lead of the Activity Capture squad. Direct manager of 2 engineers.
-
-- Shipped [Auto Contact Capture](https://www.groove.co/blog/groove-expands-revenue-intelligence-capabilities-with-auto-contact-capture/), expanding Groove's revenue intelligence capabilities.
-- Moved the entire Salesforce Managed Package development environment to [SFDX](https://developer.salesforce.com/developer-centers/developer-experience), allowing parallel feature development and CI/CD.
-
-**Senior Software Engineer** _(Mar 2020 - Jan 2021)_ <br>
-Tech lead of the squad: writing product and tech spec working very closely with the squad's product manager.
-
-- Led backend upgrade from Rails 4.2 to Rails 5.2.
-- Implemented new AWS-based Key Management System.
-- Re-engineered the entire license management system.
-- Direct manager of 1 engineer and 1 contractor.
-
-**Full Stack Software Engineer** _(Jun 2018 - Mar 2020)_ <br>
-Led the 2-person team that rebuilt Groove's meeting scheduler from scratch, using Next.js and Ruby on Rails.
-
-- Took ownership of Groove's Salesforce managed package, written in APEX.
-- Implemented APIs in GraphQL.
+- Led Rails upgrades 4.2→5.2→6.1, introduced private gems; deconstructing the monolith; introduced ActionCable, Redis cache, encrypted credentials
+- Rolled out read-replica DB; offloaded 10% of reads, delivering more predictable query performance for all queries.
+- Managed 5 engineers; shipped [Groove's Conversation Intelligence](https://www.groove.co/blog/groove-announces-new-conversation-intelligence-product-and-mobile-app)
+- Rebuilt meeting scheduler (Next.js + Rails); improved UX, reduced latency with server-side rendering;
+- Shipped [Automatic Logging To Custom Objects](https://www.groove.co/blog/groove-releases-new-features-for-complex-enterprise-workflows/), allowing Groove to serve customers in non-tech verticals.
+- Shipped [Auto Contact Capture](https://www.groove.co/blog/groove-expands-revenue-intelligence-capabilities-with-auto-contact-capture/), increasing number of automatically captured contacts by 20% in early tests.
+- Moved the entire Salesforce Managed Package development environment to [SFDX](https://developer.salesforce.com/developer-centers/developer-experience), allowing parallel feature development and CI/CD; enabling 7 other colleagues to contribute to the code, instead of just 1.
 
 ### @ [**Meteorcomm**](https://meteorcomm.com/) _in Seattle, WA_<br>
 
