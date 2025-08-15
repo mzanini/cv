@@ -26,7 +26,7 @@ Lead company-wide projects to create the sales engagement platform of the future
 
 - Led Rails upgrades 4.2→5.2→6.1, introduced private gems; deconstructing the monolith; introduced ActionCable, Redis cache, encrypted credentials
 - Rolled out read-replica DB; offloaded 10% of reads, delivering more predictable query performance for all queries.
-- Managed 5 engineers; shipped [Groove's Conversation Intelligence](https://www.groove.co/blog/groove-announces-new-conversation-intelligence-product-and-mobile-app)
+- Managed 5 engineers; shipped [Groove's Conversation Intelligence](https://www.groove.co/blog/groove-announces-new-conversation-intelligence-product-and-mobile-app). More than 66k calls processed so far, 80% of them associated with at least one Salesforce record.
 - Rebuilt meeting scheduler (Next.js + Rails); improved UX, reduced latency with server-side rendering;
 - Shipped [Automatic Logging To Custom Objects](https://www.groove.co/blog/groove-releases-new-features-for-complex-enterprise-workflows/), allowing Groove to serve customers in non-tech verticals.
 - Shipped [Auto Contact Capture](https://www.groove.co/blog/groove-expands-revenue-intelligence-capabilities-with-auto-contact-capture/), increasing number of automatically captured contacts by 20% in early tests.
