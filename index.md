@@ -9,13 +9,14 @@ _Based in the Greater Seattle Area_ <br>
 
 ### @ [**Clari**](https://www.clari.com/) _in Seattle, WA (remote)_ <br>
 
-> Ruby on Rails, Typescript, GraphQL, PostgreSQL,  React, AWS, Kubernetes, Docker, Heroku
+> Ruby on Rails, TypeScript, GraphQL, PostgreSQL,  React, AWS, Kubernetes, Docker, Heroku, JSON:API
 
 **Staff Software Engineer - Architecture Team** _(Aug 2023 - Present)_ <br>
 Driving technical projects across the company: focusing on architecture, performance, and cost optimization.
-- Modernizing Clari's Groove infrastructure for cost optimization and performance focusing on AWS services. Migration to Kubernetes.
-- Shipped first version of partner API and API strategy for Clari's Groove, enabling [third-party integrations](https://pipeline.zoominfo.com/sales/clari-groove-integration). [JSON:API](https://jsonapi.org/) for the win!
-- Radically modernized Clari's Groove dialer with an event-based system, taming Twilio's complexity and improving performance.
+- Leading migration of all 8 services from Heroku to AWS EKS (Kubernetes); consolidating to one platform and unlocking 40% infrastructure cost savings.
+- Leading migration from Heroku key-value store to AWS ElastiCache; 4 instances; maintaining p90 latency below 15ms while reducing costs by more than 50%.
+- Shipped first version of partner API and API strategy for Clari's Groove, enabling third-party integrations. More than 5 successful integrations so far, including [ZoomInfo](https://pipeline.zoominfo.com/sales/clari-groove-integration), [LeanData](https://leandatahelp.zendesk.com/hc/en-us/articles/31981353374619-LeanData-Clari-Groove-Integration-Add-to-Flows) and [Nooks](https://www.nooks.ai/blog-posts/less-clicking-more-calling-groove-now-works-inside-nooks). Implemented core partner flows, serving more than 3k requests per day.
+- Radically modernized Clari's Groove dialer with an event-based system, taming Twilio's complexity and improving performance. Handling 30k calls per hour, reduced the percentage of dropped calls by 75%.
 
 ### @ [**Groove (acquired by Clari)**](https://www.groove.co/) _in Seattle, WA_ <br>
 
