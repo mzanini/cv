@@ -65,7 +65,7 @@ Explored different ways to dynamically enhance security in cloud computing envir
 > React Native, Ruby on Rails, GraphQL
 
 **Owner** _(Jan 2021 - Present)_ <br>
-I founded Zero Mile Labs with one goal: shorten the distance between people and their food. With that goal, I built [`CropStand`](https://www.zeromilelabs.com/cropstand), a mobile app that allows small food producers to get their roadside produce stand online in minutes. Producers list the produce they have available and accept payments entirely in the app.
+I founded Zero Mile Labs with one goal: shorten the distance between people and their food. With that goal, I built [CropStand](https://www.zeromilelabs.com/cropstand), a mobile app that allows small food producers to get their roadside produce stand online in minutes. Producers list the produce they have available and accept payments entirely in the app.
 
 Logo and app design, wireframing, development and deployment all done by yours truly. The app is available on both iOS and Android.
 
