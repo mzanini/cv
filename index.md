@@ -55,7 +55,8 @@ Lead company-wide projects to add new features, improve code modularity, perform
 
 > Java
 
-**Researcher (Cloud Security), with IBM Dublin – context-aware countermeasure prototypes.** _(October 2011 – March 2012)_ <br>
+**Researcher (Cloud Security)** _(October 2011 – March 2012)_ <br>
+Researched dynamic cloud security and built context-aware countermeasures in collaboration with IBM Dublin
 
 ## 🚀 Entrepreneurship
 
