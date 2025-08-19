@@ -49,14 +49,13 @@ Lead company-wide projects to add new features, improve code modularity, perform
 **Software Engineer** _(Feb 2013 - Jun 2016)_ <br>
 - Implemented C++ services and UI workflows for data acquisition/processing.
 - Converted MATLAB library to C++ (Armadillo), 2× faster and no license dependency.
-- Drove engineering practices as Scrum Master (TDD/pairing), raising coverage ≈50%; shipped monitoring POC to unlock ~$5k/job savings.
+- Drove engineering practices as Scrum Master (TDD/pairing), increased test coverage ~50%; shipped monitoring POC projecting ~$5k/job savings.
 
 ### @ [**The Irish Software Engineering Research Center (LERO)**](https://www.lero.ie/) _in Limerick, Ireland_ <br>
 
 > Java
 
-**Researcher, Cloud Computing** _(October 2011 – March 2012)_ <br>
-Explored different ways to dynamically enhance security in cloud computing environments. Developed novel applications of context-based countermeasures. Project conducted with the help of IBM, Dublin.
+**Researcher (Cloud Security), with IBM Dublin – context-aware countermeasure prototypes.** _(October 2011 – March 2012)_ <br>
 
 ## 🚀 Entrepreneurship
 
