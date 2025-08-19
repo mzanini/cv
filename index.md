@@ -1,7 +1,7 @@
 # Marco Zanini - Staff/Principal-level Engineer, Platform & API
 [github.com/mzanini](https://github.com/mzanini/) • [linkedin.com/in/marco-zanini ](https://www.linkedin.com/in/marco-zanini) • marco.zanini@hey.com
 
-> I’ve led and shipped company-wide initiatives with enduring impact on performance, cost, and product differentiation. Most recently: architected and led the Heroku→AWS migration, defined Clari's Groove API strategy—shipping the first public API to enable third-party integrations. <br>
+> I’ve led and shipped company-wide initiatives with lasting impact on performance, cost efficiency, and product differentiation. Most recently, I architected and led the Heroku→AWS migration, defined Groove’s API strategy, and shipped the first public API to enable third-party integrations. <br>
 
 _Based in the Greater Seattle Area_ <br>
 
