@@ -27,7 +27,7 @@ Lead company-wide projects to add new features, improve code modularity, perform
 
 - Upgraded Rails 4.2→5.2→6.1; introduced private gems, ActionCable, Redis cache, encrypted credentials; began monolith decomposition with packwerk.
 - Rolled out read-replica DB; offloaded 10% of reads, stabilizing peak traffic and improving P95 latency for heavy reports.
-- Managed 5 engineers to launch [Groove's Conversation Intelligence](https://www.groove.co/blog/groove-announces-new-conversation-intelligence-product-and-mobile-app); 66k+ calls processed with 80% mapped to Salesforce objects.
+- Managed 5 engineers to launch [Groove's Conversation Intelligence](https://www.groove.co/blog/groove-announces-new-conversation-intelligence-product-and-mobile-app); 66k+ calls processed of which 80% mapped to Salesforce objects.
 - Rebuilt meeting scheduler (Next.js + Rails); improved UX, reduced latency with server-side rendering.
 - Shipped [Automatic Logging To Custom Objects](https://www.groove.co/blog/groove-releases-new-features-for-complex-enterprise-workflows/), allowing Groove to serve customers in non-tech verticals.
 - Shipped [Auto Contact Capture](https://www.groove.co/blog/groove-expands-revenue-intelligence-capabilities-with-auto-contact-capture/), increasing number of automatically captured contacts by 20% in early tests.
