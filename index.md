@@ -14,6 +14,7 @@ _Based in the Greater Seattle Area_ <br>
 **Staff Software Engineer - Architecture Team** _(Aug 2023 - Present)_ <br>
 Driving technical projects across the company: focusing on architecture, performance, and cost optimization.
 - Leading migration of all 8 services from Heroku to AWS EKS (Kubernetes); consolidating to one platform and unlocking 40% infrastructure cost savings.
+- Led a zero-downtime migration of asynchronous job processing from Heroku to AWS EKS, sustained 175M jobs/week and cutting infrastructure costs by ~$500K annually.
 - Migrated Heroku Key-Value store to AWS ElastiCache (4 instances); 130k requests/minute, p90<10ms; all while cutting costs >50%.
 - Shipped first version of partner API and API strategy for Clari's Groove, enabling third-party integrations. Using JSON:API, OAuth 2.0: 5+ integrations live ([ZoomInfo](https://pipeline.zoominfo.com/sales/clari-groove-integration), [LeanData](https://leandatahelp.zendesk.com/hc/en-us/articles/31981353374619-LeanData-Clari-Groove-Integration-Add-to-Flows), [Nooks](https://www.nooks.ai/blog-posts/less-clicking-more-calling-groove-now-works-inside-nooks)); ~3k requests/day across core partner flows.
 - Re-architected Groove’s Dialer to a Postgres-backed event pipeline; handles ~30k calls/hour and cut dropped calls ~75%.
