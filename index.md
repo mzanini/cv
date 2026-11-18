@@ -1,19 +1,31 @@
 # Marco Zanini - Staff/Principal Platform & API Engineer
 [github.com/mzanini](https://github.com/mzanini/) • [linkedin.com/in/marco-zanini](https://www.linkedin.com/in/marco-zanini) • marco.zanini@hey.com
 
-> I’ve led and shipped company-wide initiatives with lasting impact on performance, cost efficiency, and product differentiation. Most recently, I architected and led the Heroku→AWS migration, defined Groove’s API strategy, and shipped the first public API to enable third-party integrations. <br>
+> I’ve led and shipped company-wide initiatives with lasting impact on performance, cost efficiency, and product differentiation. At Ravenna, I own the knowledge ingestion pipeline behind its agentic service desk, built its device management integrations, and delivered several performance optimizations, such as removing ALB sticky sessions and cross-pod Redis rate limiting. Before that, I architected and led Clari’s Heroku→AWS migration, shipped Groove’s first public API, and owned its Salesforce managed package. <br>
 
 _Based in the Greater Seattle Area_ <br>
 
 ## 🤓 Work Experience
 
+### @ [**Ravenna**](https://ravenna.ai/) _in Seattle, WA_ <br>
+
+> TypeScript, Node.js, tRPC, Prisma, PostgreSQL (Aurora), Temporal, Redis, OpenSearch, React, AWS (ECS, CloudFront), Terraform, OpenTelemetry, Grafana
+
+**Staff Software Engineer - Platform Team** _(Nov 2025 - Present)_ <br>
+Building the integrations, knowledge and infrastructure platform behind an AI-native service desk for IT and HR teams.
+- Own [knowledge base ingestion](https://docs.ravenna.ai/documentation/automate/knowledge/overview) that grounds Ravenna's AI agents: ~1M documents for 120+ customer organizations, ~12k syncs/month at 96% success. Unified ingestion behind a provider-independent document model, making new sources quicker to add and existing ones easier to maintain. Added Zendesk, Guru, GitHub, among others.
+- Optimized ingestion performance and cost: eliminated the top 3 Aurora wait-time queries (~100 → 2-3 queries per batch), cut pages dropped to third-party rate limits from ~43k a night to ~0 by pacing calls across pods with a distributed Redis rate limiter, and reduced Grafana Cloud metrics spend.
+- Leading security hardening for Google's CASA assessment: moved authorization to the API boundary with org scoping enforced by the type system, closed cross-org access gaps, kept credentials out of URLs and logs, and put core's origin behind a private CloudFront VPC origin.
+- Shipped 4 device management integrations end to end ([Fleet](https://docs.ravenna.ai/integrations/fleet/overview), [Jamf Pro](https://docs.ravenna.ai/integrations/jamf/overview), [Iru](https://docs.ravenna.ai/integrations/iru/overview), [Intune](https://docs.ravenna.ai/integrations/intune/overview)), among Ravenna's first AI agent tools, from device lock and wipe to disk encryption keys; designed the [contextual ticket cards](https://docs.ravenna.ai/documentation/tickets/cards) that show requesters' devices and assets in tickets.
+- Rebalanced production traffic by removing ALB sticky sessions, which pinned every open browser tab to one pod: in business hours, the busiest pod went from ~1.6× to ~1.0× the fleet's average load, with peaks down from 3.2× to 2×.
+
 ### @ [**Clari**](https://www.clari.com/) _in Seattle, WA (remote)_ <br>
 
 > Ruby on Rails, TypeScript, GraphQL, PostgreSQL,  React, AWS, Kubernetes, Docker, Heroku, JSON:API
 
-**Staff Software Engineer - Architecture Team** _(Aug 2023 - Present)_ <br>
+**Staff Software Engineer - Architecture Team** _(Aug 2023 - Oct 2025)_ <br>
 Driving technical projects across the company: focusing on architecture, performance, and cost optimization.
-- Leading migration of all 8 services from Heroku to AWS EKS (Kubernetes); consolidating to one platform and unlocking 40% infrastructure cost savings.
+- Architected and led the migration of all 8 services from Heroku to AWS EKS (Kubernetes), consolidating onto one platform for a projected 40% infrastructure cost saving.
 - Led a zero-downtime migration of asynchronous job processing from Heroku to AWS EKS, sustained 175M jobs/week and cutting infrastructure costs by ~$500K annually.
 - Migrated Heroku Key-Value store to AWS ElastiCache (4 instances); 130k requests/minute, p90<10ms; all while cutting costs >50%.
 - Shipped first version of partner API and API strategy for Clari's Groove, enabling third-party integrations. Using JSON:API, OAuth 2.0: 5+ integrations live ([ZoomInfo](https://pipeline.zoominfo.com/sales/clari-groove-integration), [LeanData](https://leandatahelp.zendesk.com/hc/en-us/articles/31981353374619-LeanData-Clari-Groove-Integration-Add-to-Flows), [Nooks](https://www.nooks.ai/blog-posts/less-clicking-more-calling-groove-now-works-inside-nooks)); ~3k requests/day across core partner flows.
