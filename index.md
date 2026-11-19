@@ -1,7 +1,7 @@
 # Marco Zanini - Staff/Principal Platform & API Engineer
 [github.com/mzanini](https://github.com/mzanini/) • [linkedin.com/in/marco-zanini](https://www.linkedin.com/in/marco-zanini) • marco.zanini@hey.com
 
-> I’ve led and shipped company-wide initiatives with lasting impact on performance, cost efficiency, and product differentiation. At Ravenna, I own the knowledge ingestion pipeline behind its agentic service desk, built its device management integrations, and delivered several performance optimizations, such as removing ALB sticky sessions and cross-pod Redis rate limiting. Before that, I architected and led Clari’s Heroku→AWS migration, shipped Groove’s first public API, and owned its Salesforce managed package. <br>
+I’ve led and shipped company-wide initiatives with lasting impact on performance, cost efficiency, and product differentiation. At Ravenna, I own the knowledge ingestion pipeline behind its agentic service desk, built its device management integrations, and delivered several performance optimizations, such as removing ALB sticky sessions and cross-pod Redis rate limiting. Before that, I architected and led Clari’s Heroku→AWS migration, shipped Groove’s first public API, and owned its Salesforce managed package. <br>
 
 _Based in the Greater Seattle Area_ <br>
 
