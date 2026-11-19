@@ -19,7 +19,7 @@ Building the integrations, knowledge and infrastructure platform behind an AI-na
 - Shipped 4 device management integrations end to end ([Fleet](https://docs.ravenna.ai/integrations/fleet/overview), [Jamf Pro](https://docs.ravenna.ai/integrations/jamf/overview), [Iru](https://docs.ravenna.ai/integrations/iru/overview), [Intune](https://docs.ravenna.ai/integrations/intune/overview)), among Ravenna's first AI agent tools, from device lock and wipe to disk encryption keys; designed the [contextual ticket cards](https://docs.ravenna.ai/documentation/tickets/cards) that show requesters' devices and assets in tickets.
 - Rebalanced production traffic by removing ALB sticky sessions, which pinned every open browser tab to one pod: in business hours, the busiest pod went from ~1.6× to ~1.0× the fleet's average load, with peaks down from 3.2× to 2×.
 
-### @ [**Clari**](https://www.clari.com/) _in Seattle, WA (remote)_ <br>
+### @ [**Clari (merged with Salesloft)**](https://www.clari.com/) _in Seattle, WA (remote)_ <br>
 
 > Ruby on Rails, TypeScript, GraphQL, PostgreSQL,  React, AWS, Kubernetes, Docker, Heroku, JSON:API
 
